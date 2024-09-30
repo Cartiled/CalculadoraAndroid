@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CalculadoraXML</string>
+    <string name="textViewText">introduce</string>
+    <string name="numero0">0</string>
+    <string name="numero1">1</string>
+    <string name="numero2">2</string>
+    <string name="numero3">3</string>
+    <string name="numero4">4</string>
+    <string name="numero5">5</string>
+    <string name="numero6">6</string>
+    <string name="numero7">7</string>
+    <string name="numero8">8</string>
+    <string name="numero9">9</string>
+    <string name="coma">,</string>
+    <string name="igual">=</string>
+    <string name="dividir">÷</string>
+    <string name="mutiplicar">x</string>
+    <string name="sumar">+</string>
+    <string name="porcentajes">%</string>
+    <string name="menos">-</string>
+    <string name="vaciar">AC</string>
+</resources>
